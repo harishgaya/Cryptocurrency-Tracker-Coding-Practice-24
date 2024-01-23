@@ -1,0 +1,7 @@
+/* Write your CSS here */
+.bg-Container {
+  background-color: #000000;
+  height: 100vh;
+  background-size: cover;
+  padding: 50px;
+}
